@@ -1,4 +1,4 @@
 # GitGit
 Learning features of Git and GitHub
 <br>
-Author - Ankit Gari
+Author - Ankit Gari(Student)
